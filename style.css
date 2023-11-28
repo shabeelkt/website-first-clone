@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin:0px 0px 0px 20px ;
+    padding: 0px;
+}
+.leftNav ul {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.leftNav ul li{
+    list-style: none;
+}
+.leftNav ul li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 17px;
+    width: 100px;
+    height: 44px;
+    
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+.h1{
+    text-align: center;
+    font-family: 'FFDINforPuma';
+}
+
+
+.card-container{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.image-container img{
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+
+}
+.card-container h2{
+    align-items: flex-start;
+    text-align: center;
+    font-family: 'FFDINforPuma';
+}
+.card-container h5{
+    align-items: flex-start;
+    text-align: center;
+   
+}
+.btn-sec{
+
+    background-color: black;
+    height: 49px;
+    width: 214px;
+    border: none;
+    color: white;
+    text-align: center;
+}
+.div-img{
+width: 100%;
+
+.btn-third{
+    background-color: white;
+    color: black;
+    width: 118px;
+    height: 46px;
+    margin: 0px;
+    margin-left: 224px;
+}
+}
+.btn-fourth{
+    background-color: aliceblue;
+    border: none;
+    margin-left: 172px;
+    font-weight: 600;
+    font-size: 20px;
+    height: 50px;
+    width: 140px;
+    margin-top: 10px;
+}
+.btn-fifth{
+    background-color: black;
+    border: none;
+    margin-left: 597px;
+    font-weight: 500;
+    font-size: 19px;
+    height: 48px;
+    width: 162px;
+    margin-top: 10px;
+    color: white;
+}
+.btn-sixth{
+    background-color: black;
+    border: none;
+    margin-left: 172px;
+    font-weight: 500;
+    font-size: 19px;
+    height: 46px;
+    width: 139px;
+    margin-top: 10px;
+    color: white;
+}
+.btn-seventh{
+    background-color: white;
+    border: none;
+    margin-left: 212px;
+    font-weight: 500;
+    font-size: 19px;
+    height: 46px;
+    width: 139px;
+    margin-top: 10px;
+    color: black;
+}
+.btn-eighth{
+    background-color: white;
+    border: none;
+    margin-left: 654px;
+    font-weight: 500;
+    font-size: 19px;
+    height: 48px;
+    width: 162px;
+    margin-top: 10px;
+    color: black;
+}
+.footer-header{
+    color:white;
+    margin-left: 36px;
+    margin: 0;
+}
+.footer-link li{
+
+color: rgb(179, 177, 177);
+padding: 6px;
+}
+.fab{
+
+
+padding-right: 10px;
+}
+.links{
+    padding-right: 10px;
+}
+.btn-ind{
+    width: 158px;
+    height: 54px;
+    background-color:black;
+    color: white;
+}
